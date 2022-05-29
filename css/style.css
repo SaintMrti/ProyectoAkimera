@@ -291,6 +291,108 @@ h6,
     background: url(../img/icon-shape-white.png);
 }
 
+.service-item .service-icon-design {
+    margin: 0 auto 20px auto;
+    width: 90px;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--light);
+    background: url(../img/icon-orange.png) center center no-repeat;
+    transition: .5s;
+}
+
+.service-item:hover .service-icon-design {
+    color: var(#ff9100);
+    background: url(../img/icon-orange.png);
+}
+
+.service-item .service-icon-salud {
+    margin: 0 auto 20px auto;
+    width: 90px;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--light);
+    background: url(../img/icon-bluesky.png) center center no-repeat;
+    transition: .5s;
+}
+
+.service-item:hover .service-icon-salud {
+    color: var(#00d9ff);
+    background: url(../img/icon-bluesky.png);
+}
+
+.service-item .service-icon-green {
+    margin: 0 auto 20px auto;
+    width: 90px;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--light);
+    background: url(../img/icon-green.png) center center no-repeat;
+    transition: .5s;
+}
+
+.service-item:hover .service-icon-green {
+    color: var(#00ca0a);
+    background: url(../img/icon-green.png);
+}
+
+.service-item .service-icon-military {
+    margin: 0 auto 20px auto;
+    width: 90px;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--light);
+    background: url(../img/icon-military.png) center center no-repeat;
+    transition: .5s;
+}
+
+.service-item:hover .service-icon-military {
+    color: var(#007c06);
+    background: url(../img/icon-military.png);
+}
+
+.service-item .service-icon-red {
+    margin: 0 auto 20px auto;
+    width: 90px;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--light);
+    background: url(../img/icon-red.png) center center no-repeat;
+    transition: .5s;
+}
+
+.service-item:hover .service-icon-red {
+    color: var(#d60404);
+    background: url(../img/icon-red.png);
+}
+
+.service-item .service-icon-blue {
+    margin: 0 auto 20px auto;
+    width: 90px;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--light);
+    background: url(../img/icon-blue.png) center center no-repeat;
+    transition: .5s;
+}
+
+.service-item:hover .service-icon-blue {
+    color: var(#0004ff);
+    background: url(../img/icon-blue.png);
+}
+
 .service-item h5,
 .service-item p {
     transition: .5s;
