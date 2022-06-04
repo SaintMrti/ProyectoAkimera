@@ -29,6 +29,15 @@
     z-index: 99;
 }
 
+.btn-whatsapp {
+    background-color: #00bb2d;
+    color: white;
+    position: fixed;
+    display: none;
+    right: 45px;
+    bottom: 45px;
+}
+
 
 /*** Heading ***/
 h1,
@@ -257,7 +266,6 @@ h6,
 .parrafoNosotros {
     color: black;
     font-size: 20px;
-    text-align: center;
 }
 
 /*** Service ***/
