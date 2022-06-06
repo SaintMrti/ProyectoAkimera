@@ -134,6 +134,10 @@ h6,
     font-size: 20px;
 }
 
+.telefono {
+    text-decoration: none;
+}
+
 @media (max-width: 991.98px) {
     .sticky-top.navbar-light {
         position: relative;
@@ -159,6 +163,15 @@ h6,
     .navbar-light .navbar-brand img {
         max-height: 45px;
     }
+
+    .subPrincipal {
+        font-size: 35px;
+    }
+
+    .subSecundario {
+        font-size: 15px;
+    }
+
 }
 
 @media (min-width: 992px) {
@@ -199,6 +212,14 @@ h6,
 
     .sticky-top.navbar-light .navbar-brand h1 {
         color: var(--primary);
+    }
+
+    .subPrincipal {
+        font-size: 35px;
+    }
+    
+    .subSecundario {
+        font-size: 15px;
     }
 }
 
