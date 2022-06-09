@@ -163,6 +163,11 @@ h6,
     .subSecundario {
         font-size: 15px;
     }
+    
+    #map {
+        width: 350px;
+        height: 300px;
+    }
 }
 
 @media (min-width: 992px) {
@@ -225,7 +230,7 @@ h6,
         url(../img/bg-tree.png),
         url(../img/bg-bottom-hero.png);
     background-position:
-        10px 10px,
+        10px 150px,
         bottom 190px right 10px,
         left 55% top -1px,
         left 45% bottom -1px,
