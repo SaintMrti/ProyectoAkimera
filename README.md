@@ -7,6 +7,8 @@ PROYECTO CREADO EN COLABORACIÓN PARA PROMOCIONAR Y DAR A CONOCER UN EMPRENDIMIE
 
 Utilizamos plantilla de https://themewagon.com/theme-price/free
 
+Subida en: https://akimera.vercel.app/
+
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
